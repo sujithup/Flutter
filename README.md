@@ -1,5 +1,5 @@
 # Flutter
-Designed the User interface and coded the App for Alltramatic, which is an USA startup company for AI Lawnmower.
+Designed the User interface and coded the App for Alltramatic, which is a USA startup company for AI Lawnmower.
 This app includes:
 1. Login Screen with Firebase Google-signin authentication.
 2. Connect to the robot using bluetooth.
